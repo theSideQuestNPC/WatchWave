@@ -4,26 +4,22 @@
 
 **The ultimate cross-platform media streaming & tracking suite.**
 
-<br/>
-
-<!-- BIG STAR CALLOUT BANNER -->
-<a href="https://github.com/WatchWaveWW/WatchWave/stargazers">
-  <img src="https://img.shields.io/badge/⭐_GIVE_US_A_STAR-If_you_love_WatchWave,_support_the_project_on_GitHub!-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star WatchWave on GitHub" width="550" />
+<!-- BIG STAR CALLOUT BANNER (TOP) -->
+<a href="https://github.com/theSideQuestNPC/WatchWave/stargazers">
+  <img src="https://img.shields.io/badge/⭐_GIVE_US_A_STAR-If_you_love_WatchWave,_support_the_project_on_GitHub!-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Star WatchWave on GitHub" width="550" />
 </a>
 
-<br/><br/>
-
-[![GitHub Stars](https://img.shields.io/github/stars/WatchWaveWW/WatchWave?style=for-the-badge&logo=github&color=FFD700)](https://github.com/WatchWaveWW/WatchWave/stargazers)
-[![GitHub Release](https://img.shields.io/github/v/release/WatchWaveWW/WatchWave?style=for-the-badge&logo=github&color=7289DA)](https://github.com/WatchWaveWW/WatchWave/releases)
-[![Windows App](https://img.shields.io/badge/Windows-Native_App_Live-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://watchwave.pro)
-[![Android App](https://img.shields.io/badge/Android-Native_APK_Live-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://watchwave.pro)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://github.com/WatchWaveWW/WatchWave)
-[![Ads](https://img.shields.io/badge/Ads-Zero%20%2F%20100%25%20Free-brightgreen?style=for-the-badge)](#features)
-[![Discord](https://img.shields.io/discord/123456789?style=for-the-badge&color=7289da&logo=discord&logoColor=white)](https://discord.gg/Ftu9X34wVM)
+[![GitHub Stars](https://img.shields.io/github/stars/theSideQuestNPC/WatchWave?style=for-the-badge&logo=github&color=000000&labelColor=000000)](https://github.com/theSideQuestNPC/WatchWave/stargazers)
+[![GitHub Release](https://img.shields.io/github/v/release/theSideQuestNPC/WatchWave?style=for-the-badge&logo=github&color=000000&labelColor=000000)](https://github.com/theSideQuestNPC/WatchWave/releases)
+[![Windows App](https://img.shields.io/badge/Windows-App_Live-000000?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000)](https://watchwave.pro)
+[![Android App](https://img.shields.io/badge/Android-APK_Live-000000?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)](https://watchwave.pro)
+[![License](https://img.shields.io/badge/License-Proprietary-000000?style=for-the-badge&labelColor=000000)](https://github.com/theSideQuestNPC/WatchWave)
+[![Ads](https://img.shields.io/badge/Ads-Zero%20%2F%20100%25%20Free-000000?style=for-the-badge&labelColor=000000)](#features)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/Ftu9X34wVM)
 
 <br/>
 
-WatchWave is a lightweight, modern, cross-platform media streaming and tracking suite built for seamless entertainment discovery. Available now as native **Windows** and **Android** apps alongside the web client — completely free with zero ads and no subscriptions.
+WatchWave is a lightweight, modern, cross-platform media streaming and tracking suite built for seamless entertainment discovery. Available now as **Windows** and **Android** apps alongside the web client — completely free with zero ads and no subscriptions.
 
 [🌐 Visit WatchWave](https://watchwave.pro) • [💬 Join Discord](https://discord.gg/Ftu9X34wVM)
 
@@ -73,7 +69,7 @@ WatchWave is a lightweight, modern, cross-platform media streaming and tracking 
 
 ### 📅 Release Calendar & Availability
 - **Integrated Release Calendar:** Track upcoming movie premieres, new TV show episodes, and anime airing schedules in real-time.
-- **Cross-Platform Apps:** Native **Windows** and **Android** app builds available now, with an **Android TV app coming soon**.
+- **Cross-Platform Apps:** **Windows** and **Android** app builds available now, with an **Android TV app coming soon**.
 
 ### 👥 Profiles & Security
 - **Multi-Profile System:** Create personalized profiles with unique avatars, watch histories, and preference configurations.
@@ -85,6 +81,17 @@ WatchWave is a lightweight, modern, cross-platform media streaming and tracking 
 - **Smart Match System:** Get personalized movie/show recommendations based on your viewing habits and genre taste.
 - **My List & Custom Bookmarks:** Organize your library into custom categories, watchlists, and favorites.
 - **Unified Search Index:** Aggregates Movies, TV Series, and Anime into a single search workflow with metadata powered by TMDB and AniList.
+
+<br/>
+
+<div align="center">
+
+<!-- BIG STAR CALLOUT BANNER (BOTTOM) -->
+<a href="https://github.com/theSideQuestNPC/WatchWave/stargazers">
+  <img src="https://img.shields.io/badge/⭐_GIVE_US_A_STAR-If_you_love_WatchWave,_support_the_project_on_GitHub!-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Star WatchWave on GitHub" width="550" />
+</a>
+
+</div>
 
 ---
 
@@ -103,3 +110,6 @@ Copyright © 2026 **WatchWave**. All Rights Reserved.
 - **Aggregator Service:** WatchWave acts purely as a search and indexing tool that aggregates third-party links, metadata, and web embeds publicly accessible on the internet.
 - **Third-Party Sources:** All media content is provided directly by unaffiliated third-party services. WatchWave has no control over, responsibility for, or affiliation with any third-party content providers or media hosts.
 - **Liability Notice:** WatchWave does not verify the legality or accuracy of content made available by external third-party sources. Users are solely responsible for their compliance with local laws and regulations regarding online media viewing.
+
+
+-------  -------  -------  --------------  --------------  --------------  --------------  ------- Thanks -------  --------------  --------------  --------------  --------------  --------------  -------  -------  --------
