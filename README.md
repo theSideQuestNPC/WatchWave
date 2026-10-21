@@ -111,5 +111,5 @@ Copyright © 2026 **WatchWave**. All Rights Reserved.
 - **Third-Party Sources:** All media content is provided directly by unaffiliated third-party services. WatchWave has no control over, responsibility for, or affiliation with any third-party content providers or media hosts.
 - **Liability Notice:** WatchWave does not verify the legality or accuracy of content made available by external third-party sources. Users are solely responsible for their compliance with local laws and regulations regarding online media viewing.
 
-
--------  -------  -------  --------------  --------------  --------------  --------------  ------- Thanks -------  --------------  --------------  --------------  --------------  --------------  -------  -------  --------
+<br>
+<br/>
