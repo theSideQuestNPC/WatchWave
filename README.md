@@ -9,13 +9,13 @@
   <img src="https://img.shields.io/badge/⭐_GIVE_US_A_STAR-If_you_love_WatchWave,_support_the_project_on_GitHub!-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Star WatchWave on GitHub" width="550" />
 </a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/theSideQuestNPC/WatchWave?style=for-the-badge&logo=github&color=000000&labelColor=000000)](https://github.com/theSideQuestNPC/WatchWave/stargazers)
-[![GitHub Release](https://img.shields.io/github/v/release/theSideQuestNPC/WatchWave?style=for-the-badge&logo=github&color=000000&labelColor=000000)](https://github.com/theSideQuestNPC/WatchWave/releases)
-[![Windows App](https://img.shields.io/badge/Windows-App_Live-000000?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000)](https://watchwave.pro)
-[![Android App](https://img.shields.io/badge/Android-APK_Live-000000?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)](https://watchwave.pro)
-[![License](https://img.shields.io/badge/License-Proprietary-000000?style=for-the-badge&labelColor=000000)](https://github.com/theSideQuestNPC/WatchWave)
-[![Ads](https://img.shields.io/badge/Ads-Zero%20%2F%20100%25%20Free-000000?style=for-the-badge&labelColor=000000)](#features)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/Ftu9X34wVM)
+[![GitHub Stars](https://img.shields.io/github/stars/theSideQuestNPC/WatchWave?style=for-the-badge&logo=github&color=eab308&labelColor=18181b)](https://github.com/theSideQuestNPC/WatchWave/stargazers)
+[![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-6366f1?style=for-the-badge&logo=github&labelColor=18181b)](https://github.com/theSideQuestNPC/WatchWave/releases)
+[![Windows App](https://img.shields.io/badge/Windows-App_Live-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=18181b)](https://watchwave.pro)
+[![Android App](https://img.shields.io/badge/Android-APK_Live-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=18181b)](https://watchwave.pro)
+[![License](https://img.shields.io/badge/License-Proprietary-ef4444?style=for-the-badge&labelColor=18181b)](https://github.com/theSideQuestNPC/WatchWave)
+[![Ads](https://img.shields.io/badge/Ads-Zero%20%2F%20100%25%20Free-22c55e?style=for-the-badge&labelColor=18181b)](#features)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=18181b)](https://discord.gg/Ftu9X34wVM)
 
 <br/>
 
