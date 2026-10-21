@@ -7,7 +7,7 @@
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](https://github.com/WatchWaveWW/WatchWave)
 [![Platform: Cross-Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20Web-blue.svg)](https://watchwave.pro)
 [![No Ads](https://img.shields.io/badge/Ads-Zero%20%2F%20100%25%20Free-brightgreen.svg)](#features)
-[![Discord](https://img.shields.io/discord/123456789?color=7289da&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Discord](https://img.shields.io/discord/123456789?color=7289da&logo=discord&logoColor=white)](https://discord.gg/Ftu9X34wVM)
 
 WatchWave is a lightweight, modern, cross-platform media streaming and tracking desktop & mobile app built for seamless entertainment discovery. Explore, track, and stream your favorite movies, TV series, and anime from a unified interface — completely free, with zero ads and no subscriptions.
 
@@ -30,10 +30,9 @@ WatchWave is a lightweight, modern, cross-platform media streaming and tracking 
 
 ### Mobile Experience
 <div align="center">
-  <img width="400" alt="WatchWave Mobile Home" src="https://github.com/user-attachments/assets/436/950/c2e217fa-fae4-4979-99b8-2e26b6bcd553" src="https://github.com/user-attachments/assets/436/950/Screenshot_Mobile_1.png" style="margin-right: 15px;" />
-  <img width="436" alt="WatchWave Mobile Interface" src="https://github.com/user-attachments/assets/436/950/Screenshot_Mobile_2.png" src="https://github.com/user-attachments/assets/436/950/a7de8713-e606-49e5-ac03-2227e9db2b2f" />
+  <img width="436" alt="WatchWave Mobile Home" src="https://github.com/user-attachments/assets/41ad3c65-9fba-4505-89dd-83ba298071b5" style="margin-right: 15px;" />
+  <img width="436" alt="WatchWave Mobile Interface" src="https://github.com/user-attachments/assets/a7de8713-e606-49e5-ac03-2227e9db2b2f" />
 </div>
-
 ---
 
 ## ✨ Features at a Glance
