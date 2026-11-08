@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# <img width="691" height="361" alt="wlogonobg" src="https://github.com/user-attachments/assets/a25185bd-4d45-41b2-aabe-acbe20d0b328" />
+# <img width="521" height="256" alt="wlogonobg" src="https://github.com/user-attachments/assets/aeb7f77f-7729-468e-b2cf-f0034bf6354a" />
 
 
 **The ultimate cross-platform media streaming & tracking suite.**
