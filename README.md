@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🎬 WatchWave
+# <img width="691" height="361" alt="wlogonobg" src="https://github.com/user-attachments/assets/a25185bd-4d45-41b2-aabe-acbe20d0b328" />
+
 
 **The ultimate cross-platform media streaming & tracking suite.**
 
