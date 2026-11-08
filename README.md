@@ -48,9 +48,11 @@ WatchWave is a lightweight, modern, cross-platform media streaming and tracking 
 
 ### Mobile Experience
 <div align="center">
-  <img width="240" alt="WatchWave Mobile Home" src="https://github.com/user-attachments/assets/41ad3c65-9fba-4505-89dd-83ba298071b5" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="240" alt="WatchWave Mobile Interface" src="https://github.com/user-attachments/assets/a7de8713-e606-49e5-ac03-2227e9db2b2f" />
+  <img width="240" alt="WatchWave Mobile Home" src="https://github.com/user-attachments/assets/6d766199-8736-495d-a15a-54e56188d817" />
+  &nbsp;&nbsp;
+  <img width="240" alt="WatchWave Mobile Navigation" src="https://github.com/user-attachments/assets/24e8ebd1-04c0-4231-9d78-42988da12ce2" />
+  &nbsp;&nbsp;
+  <img width="240" alt="WatchWave Mobile Details" src="https://github.com/user-attachments/assets/a6e4ca44-850f-42be-bfec-b5e58b817317" />
 </div>
 
 > **Mobile Interface:** Optimized for on-the-go streaming on Android devices. Features smooth gesture navigation, responsive touch controls, instant Sub/Dub toggles, and direct file/torrent downloading for offline viewing.
@@ -111,5 +113,4 @@ Copyright © 2026 **WatchWave**. All Rights Reserved.
 - **Third-Party Sources:** All media content is provided directly by unaffiliated third-party services. WatchWave has no control over, responsibility for, or affiliation with any third-party content providers or media hosts.
 - **Liability Notice:** WatchWave does not verify the legality or accuracy of content made available by external third-party sources. Users are solely responsible for their compliance with local laws and regulations regarding online media viewing.
 
-<br>
-<br/>
+
