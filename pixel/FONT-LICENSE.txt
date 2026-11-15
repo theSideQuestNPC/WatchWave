@@ -1,0 +1,2 @@
+Pixelify Sans by Stefie Justprince, licensed under the SIL Open Font License 1.1 (https://openfontlicense.org).
+Embedded (subset: Latin, weight 700) in the generated SVG files so the text renders the same everywhere.
