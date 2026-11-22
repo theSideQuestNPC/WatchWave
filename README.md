@@ -11,7 +11,7 @@
 <br /><br />
 
 <a href="https://github.com/theSideQuestNPC/WatchWave/stargazers"><img src="https://img.shields.io/github/stars/theSideQuestNPC/WatchWave?style=for-the-badge&logo=github&color=ffffff&labelColor=000000" alt="GitHub Stars" /></a>
-<a href="https://github.com/theSideQuestNPC/WatchWave/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Release v1.0.0" /></a>
+<a href="https://github.com/theSideQuestNPC/WatchWave/releases"><img src="https://img.shields.io/badge/Release-v2.1.6-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Release v2.1.6" /></a>
 <a href="https://watchwave.pro"><img src="https://img.shields.io/badge/Windows-App_Live-ffffff?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" alt="Windows app" /></a>
 <a href="https://watchwave.pro"><img src="https://img.shields.io/badge/Android-APK_Live-ffffff?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" alt="Android app" /></a>
 <a href="https://github.com/theSideQuestNPC/WatchWave"><img src="https://img.shields.io/badge/License-Proprietary-ffffff?style=for-the-badge&labelColor=000000" alt="License" /></a>
@@ -36,7 +36,7 @@ Available now as **Windows** and **Android** apps alongside the web client, comp
 <img src="pixel/sub-desktop.svg" width="100%" alt="Desktop experience" />
 
 <div align="center">
-<img src="pixel/d-top-home.svg" width="100%" align="top" alt="" /><br /><img src="https://github.com/user-attachments/assets/c2e217fa-fae4-4979-99b8-2e26b6bcd553" width="100%" align="top" alt="WatchWave Desktop Home" /><br /><img src="pixel/d-bottom-home.svg" width="100%" align="top" alt="" />
+<img src="pixel/d-top-home.svg" width="100%" align="top" alt="" /><br /><img src="https://github.com/user-attachments/assets/185356c2-9ed6-4884-87a9-6214a4ab32e7" width="100%" align="top" alt="WatchWave Desktop Home" /><br /><img src="pixel/d-bottom-home.svg" width="100%" align="top" alt="" />
 </div>
 
 > **Desktop Hub:** Experience a fast, grid-based dashboard designed for desktop monitors. Browse trending releases, jump into personalized recommendations, or manage your continue watching queue with full keyboard and mouse navigation.
@@ -44,7 +44,7 @@ Available now as **Windows** and **Android** apps alongside the web client, comp
 <br />
 
 <div align="center">
-<img src="pixel/d-top-details.svg" width="100%" align="top" alt="" /><br /><img src="https://github.com/user-attachments/assets/8c59fbf9-7def-4bf8-8640-1a4df5af6d83" width="100%" align="top" alt="WatchWave Media Details" /><br /><img src="pixel/d-bottom-details.svg" width="100%" align="top" alt="" />
+<img src="pixel/d-top-details.svg" width="100%" align="top" alt="" /><br /><img src="https://github.com/user-attachments/assets/b4c99d99-ecd2-450b-b32a-52dfe00697df" width="100%" align="top" alt="WatchWave Media Details" /><br /><img src="pixel/d-bottom-details.svg" width="100%" align="top" alt="" />
 </div>
 
 > **Rich Media Details:** Dive deep into full movie, TV show, and anime metadata powered by TMDB and AniList. View episode guides, cast listings, high-definition backdrops, and language audio selections instantly before launching playback.
@@ -54,7 +54,7 @@ Available now as **Windows** and **Android** apps alongside the web client, comp
 <img src="pixel/sub-mobile.svg" width="100%" alt="Mobile experience" />
 
 <div align="center">
-<img src="pixel/m-top.svg" width="29%" hspace="4" align="top" alt="" /><img src="pixel/m-top.svg" width="29%" hspace="4" align="top" alt="" /><img src="pixel/m-top.svg" width="29%" hspace="4" align="top" alt="" /><br /><img src="https://github.com/user-attachments/assets/6d766199-8736-495d-a15a-54e56188d817" width="29%" hspace="4" align="top" alt="WatchWave Mobile Home" /><img src="https://github.com/user-attachments/assets/24e8ebd1-04c0-4231-9d78-42988da12ce2" width="29%" hspace="4" align="top" alt="WatchWave Mobile Navigation" /><img src="https://github.com/user-attachments/assets/a6e4ca44-850f-42be-bfec-b5e58b817317" width="29%" hspace="4" align="top" alt="WatchWave Mobile Details" /><br /><img src="pixel/m-bottom-1.svg" width="29%" hspace="4" align="top" alt="" /><img src="pixel/m-bottom-2.svg" width="29%" hspace="4" align="top" alt="" /><img src="pixel/m-bottom-3.svg" width="29%" hspace="4" align="top" alt="" />
+<img src="pixel/m-top.svg" width="29%" hspace="4" align="top" alt="" /><img src="pixel/m-top.svg" width="29%" hspace="4" align="top" alt="" /><img src="pixel/m-top.svg" width="29%" hspace="4" align="top" alt="" /><br /><img src="https://github.com/user-attachments/assets/a6e4ca44-850f-42be-bfec-b5e58b817317" width="29%" hspace="4" align="top" alt="WatchWave Mobile Home" /><img src="https://github.com/user-attachments/assets/24e8ebd1-04c0-4231-9d78-42988da12ce2" width="29%" hspace="4" align="top" alt="WatchWave Mobile Navigation" /><img src="https://github.com/user-attachments/assets/6d766199-8736-495d-a15a-54e56188d817" width="29%" hspace="4" align="top" alt="WatchWave Mobile Details" /><br /><img src="pixel/m-bottom-1.svg" width="29%" hspace="4" align="top" alt="" /><img src="pixel/m-bottom-2.svg" width="29%" hspace="4" align="top" alt="" /><img src="pixel/m-bottom-3.svg" width="29%" hspace="4" align="top" alt="" />
 </div>
 
 > **Mobile Interface:** Optimized for on-the-go streaming on Android devices. Features smooth gesture navigation, responsive touch controls, instant Sub/Dub toggles, and direct file/torrent downloading for offline viewing.
@@ -71,6 +71,12 @@ Available now as **Windows** and **Android** apps alongside the web client, comp
 <img src="pixel/f-profiles.svg" width="100%" alt="Profiles and security: multi-profile system, kids profile mode, PIN lock protection, custom status and badges" />
 
 <img src="pixel/f-discovery.svg" width="100%" alt="Discovery and library: Smart Match recommendations, My List and custom bookmarks, unified search powered by TMDB and AniList" />
+
+<img src="pixel/f-livetv.svg" width="100%" alt="Live TV and sports: free live television channels, live sports streams with real-time event schedules" />
+
+<img src="pixel/f-collection.svg" width="100%" alt="Personal collection: organize your own media library, custom collections, watchlist and library sync" />
+
+<img src="pixel/f-discord.svg" width="100%" alt="Discord Rich Presence: show what you are watching in real time with Discord RPC status integration" />
 
 <br />
 
